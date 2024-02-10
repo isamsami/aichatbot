@@ -20,4 +20,4 @@ function AppNavigation() {
   );
 }
 
-export default App;
+export default AppNavigation;
